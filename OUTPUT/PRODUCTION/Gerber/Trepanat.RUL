@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\TrepanningSimulator\PCB\Trepanat.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_tracks_inner|Scope=Board|Minimum=13.78
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=5Â|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=24Â|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=3,3Â|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87

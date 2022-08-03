@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Trepanat.PcbDoc   8/3/2022  8:38:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Signal Layer to Bottom Signal Layer
+ASCII RoundHoles File : Trepanat.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             512       PTH        2842.33mm (111.90inch)
+T2      0.7mm (28mil)                                             Round             16        PTH        228.84mm (9.01inch)
+T3      0.8mm (31mil)                                             Round             23        PTH        159.46mm (6.28inch)
+T4      0.9mm (35mil)                                             Round             26        PTH        1127.94mm (44.41inch)
+T5      0.92mm (36mil)                                            Round             4         PTH        6.50mm (0.26inch)
+T6      1.2mm (47mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T7      2.4mm (94mil)                                             Round             2         PTH        12.04mm (0.47inch)
+T8      3.4mm (134mil)                                            Round             14        PTH        1228.16mm (48.35inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              599
+
+Total Processing Time (hh:mm:ss) : 00:00:01

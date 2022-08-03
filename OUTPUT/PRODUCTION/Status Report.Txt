@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Trepanat.PcbDoc]
+   Generated File[Trepanat.TXT]
+   Generated File[Trepanat.LDP]
+   Generated File[Trepanat.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:38:23 PM On 8/3/2022
