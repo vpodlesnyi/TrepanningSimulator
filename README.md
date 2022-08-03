@@ -9,5 +9,6 @@ Technical specifications:
 - CP2103-GM USB-UART transceiver;
 - main MCU STM32F407VGT6. 
 
+![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/trepanVideo.gif)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/trepanat.JPG)
 
